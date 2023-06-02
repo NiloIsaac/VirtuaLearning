@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JAVASCRIPT
-
+![image](https://github.com/NiloIsaac/VirtuaLearning/assets/101424190/d33ec81a-0cc1-4027-88f4-df660275b577)
 ![image](https://github.com/NiloIsaac/VirtuaLearning/assets/101424190/42c2b985-1bca-4b2c-93e1-33aabb603608)
 ![image](https://github.com/NiloIsaac/VirtuaLearning/assets/101424190/b6dbeef4-c5ad-4b21-8b9d-fdca62807f53)
 ![image](https://github.com/NiloIsaac/VirtuaLearning/assets/101424190/4f6072d5-402d-4cbc-b37f-d3212376788e)
